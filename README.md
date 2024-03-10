@@ -46,10 +46,10 @@ The initial phase of the project focused on exploratory data analysis (EDA) to u
 
 ## Key steps in data preprocessing included:
 
-# Data Cleaning: Conversion of TotalCharges from an object to a numeric type, handling missing values.
-# Feature Engineering: Identification of relevant features and creation of new ones to better capture customer behavior.
-# Categorical Data Encoding: Transformation of categorical variables using one-hot encoding to prepare them for machine learning algorithms.
-# Data Scaling: Standardization of numerical features to ensure they contribute equally to the model's performance.
+- Data Cleaning: Conversion of TotalCharges from an object to a numeric type, handling missing values.
+- Feature Engineering: Identification of relevant features and creation of new ones to better capture customer behavior.
+- Categorical Data Encoding: Transformation of categorical variables using one-hot encoding to prepare them for machine learning algorithms.
+- Data Scaling: Standardization of numerical features to ensure they contribute equally to the model's performance.
 
 ## Machine Learning Models
 
