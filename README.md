@@ -55,18 +55,10 @@ The initial phase of the project focused on exploratory data analysis (EDA) to u
 
 We experimented with several machine learning models to predict customer churn, including:
 
-# Logistic Regression: A baseline model for binary classification tasks.
-# Random Forest Classifier: An ensemble method that uses multiple decision trees to improve prediction accuracy.
-# Support Vector Machine (SVM): A powerful classifier that finds the optimal hyperplane for class separation.
-# Gradient Boosting Classifier: An ensemble technique that builds models sequentially, each new model correcting errors made by previous ones.
-
-## Models
-
-This project explores several machine learning models, including:
-- Logistic Regression
-- Random Forest Classifier
-- Support Vector Machine
-- Gradient Boosting Classifier
+- Logistic Regression: A baseline model for binary classification tasks.
+- Random Forest Classifier: An ensemble method that uses multiple decision trees to improve prediction accuracy.
+- Support Vector Machine (SVM): A powerful classifier that finds the optimal hyperplane for class separation.
+- Gradient Boosting Classifier: An ensemble technique that builds models sequentially, each new model correcting errors made by previous ones.
 
 ## Model Evaluation and Feature Importance
 
